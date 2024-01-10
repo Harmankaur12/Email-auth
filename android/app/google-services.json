@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142211510717",
+    "project_id": "emailauth-6aa75",
+    "storage_bucket": "emailauth-6aa75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142211510717:android:fd1389f0ec0c29955aa2d4",
+        "android_client_info": {
+          "package_name": "com.example.emailauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_U5tAGY9kryC4-z4AWejJ47e7_x3QvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
